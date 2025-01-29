@@ -123,11 +123,3 @@ Ensure you have the following installed:
 
 ---
 
-## Contributing
-Feel free to fork the repository, create a new branch, and submit a pull request with your improvements.
-
----
-
-## License
-This project is licensed under the MIT License.
-
